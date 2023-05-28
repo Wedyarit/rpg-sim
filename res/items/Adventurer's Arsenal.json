@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "Bow of Precision",
+    "MP Heal": 0,
+    "HP Heal": 0,
+    "DEF Buf": 0,
+    "ATK Buf": 12,
+    "MAG Buf": 0,
+    "description": "A finely crafted bow that increases ATK by 12.",
+    "quantity": 1
+  },
+  "1": {
+    "name": "Elixir of Vitality",
+    "MP Heal": 0,
+    "HP Heal": 35,
+    "DEF Buf": 0,
+    "ATK Buf": 0,
+    "MAG Buf": 0,
+    "description": "A potent elixir that restores 35 HP.",
+    "quantity": 5
+  },
+  "2": {
+    "name": "Amulet of Thunder",
+    "MP Heal": 15,
+    "HP Heal": 0,
+    "DEF Buf": 0,
+    "ATK Buf": 0,
+    "MAG Buf": 15,
+    "description": "An amulet that grants 15 MP and boosts MAG by 15.",
+    "quantity": 2
+  },
+  "3": {
+    "name": "Smoke Bomb",
+    "MP Heal": 0,
+    "HP Heal": 0,
+    "DEF Buf": 0,
+    "ATK Buf": 0,
+    "MAG Buf": 0,
+    "description": "A throwable item that creates a smokescreen to escape enemies.",
+    "quantity": 3
+  }
+}

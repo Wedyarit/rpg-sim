@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "Sword of Valor",
+    "MP Heal": 0,
+    "HP Heal": 0,
+    "DEF Buf": 0,
+    "ATK Buf": 15,
+    "MAG Buf": 0,
+    "description": "A legendary sword that boosts ATK by 15.",
+    "quantity": 1
+  },
+  "1": {
+    "name": "Amulet of Healing",
+    "MP Heal": 0,
+    "HP Heal": 25,
+    "DEF Buf": 0,
+    "ATK Buf": 0,
+    "MAG Buf": 0,
+    "description": "An enchanted amulet that restores 25 HP.",
+    "quantity": 3
+  },
+  "2": {
+    "name": "Scroll of Fire",
+    "MP Heal": 10,
+    "HP Heal": 0,
+    "DEF Buf": 0,
+    "ATK Buf": 0,
+    "MAG Buf": 20,
+    "description": "A powerful scroll that grants 10 MP and boosts MAG by 20.",
+    "quantity": 2
+  },
+  "3": {
+    "name": "Potion of Invisibility",
+    "MP Heal": 0,
+    "HP Heal": 0,
+    "DEF Buf": 0,
+    "ATK Buf": 0,
+    "MAG Buf": 0,
+    "description": "A potion that grants temporary invisibility.",
+    "quantity": 1
+  }
+}

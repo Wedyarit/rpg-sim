@@ -1,0 +1,46 @@
+{
+  "moves": {
+    "0": {
+      "name": "Magic Missile",
+      "Base Power": 8,
+      "MP Cost": 2,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "1": {
+      "name": "Fireball",
+      "Base Power": 15,
+      "MP Cost": 5,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "2": {
+      "name": "Frost Nova",
+      "Base Power": 12,
+      "MP Cost": 4,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "3": {
+      "name": "Mana Shield",
+      "Base Power": 0,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 5,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    }
+  },
+  "hp": 12,
+  "mp": 30,
+  "atk": 8,
+  "def": 10,
+  "mag": 20,
+  "name": "Mage"
+}

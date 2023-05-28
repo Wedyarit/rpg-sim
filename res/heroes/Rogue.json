@@ -1,0 +1,46 @@
+{
+  "moves": {
+    "0": {
+      "name": "Dagger Strike",
+      "Base Power": 10,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "1": {
+      "name": "Backstab",
+      "Base Power": 18,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "2": {
+      "name": "Poison Blade",
+      "Base Power": 12,
+      "MP Cost": 3,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "3": {
+      "name": "Evasion",
+      "Base Power": 0,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    }
+  },
+  "hp": 16,
+  "mp": 10,
+  "atk": 22,
+  "def": 8,
+  "mag": 5,
+  "name": "Rogue"
+}

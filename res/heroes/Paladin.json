@@ -1,0 +1,46 @@
+{
+  "moves": {
+    "0": {
+      "name": "Holy Strike",
+      "Base Power": 12,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "1": {
+      "name": "Divine Shield",
+      "Base Power": 0,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 5,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "2": {
+      "name": "Smite",
+      "Base Power": 16,
+      "MP Cost": 4,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "3": {
+      "name": "Heal",
+      "Base Power": 0,
+      "MP Cost": 3,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    }
+  },
+  "hp": 20,
+  "mp": 15,
+  "atk": 16,
+  "def": 18,
+  "mag": 10,
+  "name": "Paladin"
+}

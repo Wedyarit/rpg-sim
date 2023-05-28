@@ -1,0 +1,46 @@
+{
+  "moves": {
+    "0": {
+      "name": "Silver Sword",
+      "Base Power": 12,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "1": {
+      "name": "Igni",
+      "Base Power": 16,
+      "MP Cost": 4,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "2": {
+      "name": "Yrden",
+      "Base Power": 10,
+      "MP Cost": 6,
+      "HP Cost": 0,
+      "DEF Buf": 0,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    },
+    "3": {
+      "name": "Quen",
+      "Base Power": 0,
+      "MP Cost": 0,
+      "HP Cost": 0,
+      "DEF Buf": 5,
+      "ATK Buf": 0,
+      "MAG Buf": 0
+    }
+  },
+  "hp": 18,
+  "mp": 20,
+  "atk": 14,
+  "def": 12,
+  "mag": 18,
+  "name": "Witcher"
+}
