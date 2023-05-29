@@ -20,13 +20,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c57d45d-bf9e-495f-abac-511d99f0f3dd" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="6c57d45d-bf9e-495f-abac-511d99f0f3dd" name="Changes" comment="README Update">
+      <change afterPath="$PROJECT_DIR$/res/arts/Dino.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/arts/Fly.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/enemies/Dino.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/enemies/Fly.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-26T10-23-06-0648.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/arts/Orange Slime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/arts/Chipolino.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/enemies/Orange Slime.json" beforeDir="false" afterPath="$PROJECT_DIR$/res/enemies/Chipolino.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685048902970</updated>
       <workItem from="1685048904082" duration="29625000" />
-      <workItem from="1685318162285" duration="14000" />
+      <workItem from="1685318162285" duration="4533000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1685315791856</created>
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685315791856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README Update">
+      <created>1685319542748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685319542748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="README Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="README Update" />
   </component>
 </project>
